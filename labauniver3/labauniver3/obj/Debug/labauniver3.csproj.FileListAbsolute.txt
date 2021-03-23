@@ -1,0 +1,9 @@
+C:\Users\adudin\source\repos\labauniver3\labauniver3\bin\Debug\labauniver3.exe.config
+C:\Users\adudin\source\repos\labauniver3\labauniver3\bin\Debug\labauniver3.exe
+C:\Users\adudin\source\repos\labauniver3\labauniver3\bin\Debug\labauniver3.pdb
+C:\Users\adudin\source\repos\labauniver3\labauniver3\obj\Debug\labauniver3.csprojAssemblyReference.cache
+C:\Users\adudin\source\repos\labauniver3\labauniver3\obj\Debug\labauniver3.fmain.resources
+C:\Users\adudin\source\repos\labauniver3\labauniver3\obj\Debug\labauniver3.Properties.Resources.resources
+C:\Users\adudin\source\repos\labauniver3\labauniver3\obj\Debug\labauniver3.csproj.GenerateResource.cache
+C:\Users\adudin\source\repos\labauniver3\labauniver3\obj\Debug\labauniver3.exe
+C:\Users\adudin\source\repos\labauniver3\labauniver3\obj\Debug\labauniver3.pdb
